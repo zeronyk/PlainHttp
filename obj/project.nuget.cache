@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qFewNHetoPH4/bW78rPowqrMJ0CeTMOo5Erd+7PNvFITD2GowXIL4BLotVLuFXE8L7bbgNyHtu2w6Hp5YFMXcA==",
+  "dgSpecHash": "ydj945MveyiY88APsaxswHPnCwS9XATfdKmB0kTLQLoISqMH1IEvxmHNyx+4F2iAJMyf9q6fuTi+JzDlVOiCBA==",
   "success": true,
-  "projectFilePath": "/home/hermel/Documents/Skm.Web.SkmxService/PlainHTTP/plain_http.csproj",
+  "projectFilePath": "/home/hermel/Documents/workshop/PlainHttp/plain_http.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

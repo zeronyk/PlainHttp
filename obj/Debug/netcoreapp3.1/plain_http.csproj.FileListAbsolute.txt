@@ -24,3 +24,16 @@
 /home/hermel/Documents/Skm.Web.SkmxService/PlainHTTP/obj/Debug/netcoreapp3.1/plain_http.dll
 /home/hermel/Documents/Skm.Web.SkmxService/PlainHTTP/obj/Debug/netcoreapp3.1/plain_http.pdb
 /home/hermel/Documents/Skm.Web.SkmxService/PlainHTTP/obj/Debug/netcoreapp3.1/plain_http.genruntimeconfig.cache
+/home/hermel/Documents/workshop/PlainHttp/bin/Debug/netcoreapp3.1/plain_http
+/home/hermel/Documents/workshop/PlainHttp/bin/Debug/netcoreapp3.1/plain_http.deps.json
+/home/hermel/Documents/workshop/PlainHttp/bin/Debug/netcoreapp3.1/plain_http.runtimeconfig.json
+/home/hermel/Documents/workshop/PlainHttp/bin/Debug/netcoreapp3.1/plain_http.runtimeconfig.dev.json
+/home/hermel/Documents/workshop/PlainHttp/bin/Debug/netcoreapp3.1/plain_http.dll
+/home/hermel/Documents/workshop/PlainHttp/bin/Debug/netcoreapp3.1/plain_http.pdb
+/home/hermel/Documents/workshop/PlainHttp/obj/Debug/netcoreapp3.1/plain_http.csprojAssemblyReference.cache
+/home/hermel/Documents/workshop/PlainHttp/obj/Debug/netcoreapp3.1/plain_http.AssemblyInfoInputs.cache
+/home/hermel/Documents/workshop/PlainHttp/obj/Debug/netcoreapp3.1/plain_http.AssemblyInfo.cs
+/home/hermel/Documents/workshop/PlainHttp/obj/Debug/netcoreapp3.1/plain_http.csproj.CoreCompileInputs.cache
+/home/hermel/Documents/workshop/PlainHttp/obj/Debug/netcoreapp3.1/plain_http.dll
+/home/hermel/Documents/workshop/PlainHttp/obj/Debug/netcoreapp3.1/plain_http.pdb
+/home/hermel/Documents/workshop/PlainHttp/obj/Debug/netcoreapp3.1/plain_http.genruntimeconfig.cache

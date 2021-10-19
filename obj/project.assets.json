@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hermel/Documents/Skm.Web.SkmxService/PlainHTTP/plain_http.csproj",
+      "projectUniqueName": "/home/hermel/Documents/workshop/PlainHttp/plain_http.csproj",
       "projectName": "plain_http",
-      "projectPath": "/home/hermel/Documents/Skm.Web.SkmxService/PlainHTTP/plain_http.csproj",
+      "projectPath": "/home/hermel/Documents/workshop/PlainHttp/plain_http.csproj",
       "packagesPath": "/home/hermel/.nuget/packages/",
-      "outputPath": "/home/hermel/Documents/Skm.Web.SkmxService/PlainHTTP/obj/",
+      "outputPath": "/home/hermel/Documents/workshop/PlainHttp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hermel/.nuget/NuGet/NuGet.Config"
